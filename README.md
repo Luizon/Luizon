@@ -5,7 +5,7 @@ I'm currently studying software engineering in the Tecnológico Nacional de Méx
 
 ## 👨🏽 Something about me
 <p>
-<img width="25%" alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
+<img width="20%" alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
 </p>
 
 🖥 I'm IT Student, still learning about everything 📱
