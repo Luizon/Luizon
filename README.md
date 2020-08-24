@@ -1,11 +1,11 @@
-### Hey there 👋
+### Hey there 👋🏽
 My name is Luis Cárdenas and I love learn and make new stuff 💻. I'm always making something and sometimes I share it.
 
 I'm currently studying software engineering in the Tecnológico Nacional de México Campus Culiacán, and I'm looking for improve my soft and hard skills in my career.
 
-## 👨 Something about me
+## 👨🏽 Something about me
 <p>
-<img width="66%" alt="hello there" align="left" src="https://github.com/luizon/luizon/Assets/StillAlive.gif"/>
+<img width="66%" alt="hello there" align="left" src="https://github.com/luizon/Luizon/Assets/StillAlive.gif"/>
 </p>
 
 🖥 I'm IT Student, still learning about everything 📱
@@ -15,9 +15,9 @@ I'm currently studying software engineering in the Tecnológico Nacional de Méx
 🎨 I love art, but I'm not a snob 🎭
 
 🎮 I love all videogames stuff 🎮
- - 🕹 play them...
- - 🔨 make them...
- - 👾 know their history...
+	🕹 play them...
+	🔨 make them...
+	👾 know their history...
 
 🎸 And I love listen to and play music 🎹
 
