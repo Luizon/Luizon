@@ -7,6 +7,7 @@ I'm currently studying software engineering in the Tecnológico Nacional de Méx
 <p>
 <img width="20%" alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
 </p>
+<br>
 
 🖥 I'm IT Student, still learning about everything 📱
 
