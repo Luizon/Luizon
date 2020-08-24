@@ -21,9 +21,10 @@ I'm currently studying software engineering in the Tecnológico Nacional de Méx
 
 🎸 And I love listen to and play music 🎹
 
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizon&layout=compact)
 
