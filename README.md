@@ -9,7 +9,7 @@ I'm currently studying software engineering in the Tecnológico Nacional de Méx
 </p>
 <br>
 
-🖥 I'm a IT Student, still learning about everything 📱
+🖥 I'm an IT Student, still learning about everything 📱
 
 ⚙ I'm a natural born maker 🔧
 
