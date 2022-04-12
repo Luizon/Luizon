@@ -1,7 +1,7 @@
 ### Hey there 👋🏽
 My name is Luis Cárdenas and I love learn and make new stuff 💻. I'm always making something and sometimes I share it.
 
-I'm currently studying software engineering in the Tecnológico Nacional de México Campus Culiacán, and I'm looking for improve my soft and hard skills about my career.
+I'm a software engineer looking for improve my soft and hard skills about my career.
 
 ## 👨🏽 Something about me
 <p>
@@ -13,11 +13,9 @@ I'm currently studying software engineering in the Tecnológico Nacional de Méx
 
 ⚙ I'm a natural born maker 🔧
 
-🎨 I love art, but I'm not a snob 🎭
+🎨 I love art 🎭
 
-🎮 I love all videogames stuff. 🕹 Play them 🔨 make them 👾 know them...
-
-🎸 And I love listen to and play music 🎹
+🎮 I love all videogames stuff. Play them 🕹 and make them 🔨
 
 <br>
 <br>
