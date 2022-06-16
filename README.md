@@ -1,15 +1,13 @@
-### Hey there 👋🏽
+## Hey there 👋🏽
 My name is Luis Cárdenas and I love learn and make new stuff 💻. I'm always making something and sometimes I share it.
 
 I'm a software engineer looking for improve my soft and hard skills about my career.
 
 ## 👨🏽 Something about me
 <p>
-<img width="25%" alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
+<img width=200 alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
 </p>
 <br>
-
-
 
 ⚙ I'm a natural born maker 🔧
 
