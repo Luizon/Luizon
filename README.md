@@ -9,7 +9,7 @@ I'm a software engineer looking for improve my soft and hard skills about my car
 </p>
 <br>
 
-🖥 I'm an IT Student, still learning about everything 📱
+
 
 ⚙ I'm a natural born maker 🔧
 
