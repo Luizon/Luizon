@@ -5,9 +5,8 @@ I'm a software engineer looking for improve my soft and hard skills about my car
 
 ## 👨🏽 Something about me
 <p>
-<img width=200 alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
+<img width=120 alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
 </p>
-<br>
 
 ⚙ I'm a natural born maker 🔧
 
@@ -15,8 +14,6 @@ I'm a software engineer looking for improve my soft and hard skills about my car
 
 🎮 I love all videogames stuff. Play them 🕹 and make them 🔨
 
-<br>
-<br>
 <br>
 <br>
 
