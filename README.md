@@ -5,7 +5,7 @@ I'm a software engineer looking for improve my soft and hard skills about my car
 
 ## 👨🏽 Something about me
 <p>
-<img width=130 alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
+<img width=140 alt="hello there" align="left" src="https://github.com/luizon/Luizon/blob/master/Assets/StillAlive.gif"/>
 </p>
 
 ⚙ I'm a natural born maker 🔧
