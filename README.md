@@ -1,5 +1,5 @@
 ## Hey there 👋🏽
-My name is Luis Cárdenas and I love learn and make new stuff 💻. I'm always making something and sometimes I share it.
+My name is Luis Cárdenas and I love to learn and make new stuff 💻.
 
 I'm a software engineer looking for improve my soft and hard skills about my career.
 
@@ -12,7 +12,7 @@ I'm a software engineer looking for improve my soft and hard skills about my car
 
 🎨 I love art 🎭
 
-🎮 I love all videogames stuff. Play them 🕹 and make them 🔨
+🎮 I love videogames stuff. Play them 🕹 and make them 🔨
 
 🏁 Also, I love speedruns.  I'm a speedrunner myself 🏃‍♂️
 
