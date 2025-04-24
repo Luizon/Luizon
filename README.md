@@ -1,7 +1,5 @@
 ## Hey there 👋🏽
-My name is Luizon and I love to learn and make new stuff 💻.
-
-I'm a software engineer looking for improve my soft and hard skills about my career.
+My name is Luis, everyone calls me Luizon tho, and I love to learn and make new stuff 💻.
 
 ## 👨🏽 Something about me
 <p>
